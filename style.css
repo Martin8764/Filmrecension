@@ -60,7 +60,7 @@ a:active { text-decoration: none; }
 .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 50px 300px 475vh 200px 50px;
+    grid-template-rows: 50px 300px 500vh 200px 50px;
     border-right: 1px solid black;
     border-left: 1px solid black;
 }
